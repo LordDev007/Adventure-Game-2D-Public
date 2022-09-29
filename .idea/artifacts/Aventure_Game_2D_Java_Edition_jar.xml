@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Aventure Game 2D Java Edition:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Aventure_Game_2D_Java_Edition_jar</output-path>
+    <root id="archive" name="Aventure Game 2D Java Edition.jar">
+      <element id="module-output" name="Aventure Game 2D Java Edition" />
+    </root>
+  </artifact>
+</component>
